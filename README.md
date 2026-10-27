@@ -5,6 +5,7 @@ implemented from scratch in NumPy and validated against SciPy.
 
 ## Model
 dx/dt = αx − βxy,  dy/dt = δxy − γy
+
 Parameters: α=1.0, β=0.1, δ=0.075, γ=1.5; x0=10, y0=5, t∈[0,20]
 
 ## Methods
