@@ -44,5 +44,10 @@ Parameters: α=1.0, β=0.1, δ=0.075, γ=1.5; x0=10, y0=5, t∈[0,20]
 
 
 ## Run
+
+```bash
+pip install -r requirements.txt
+python lotka_volterra.py
+```
 pip install -r requirements.txt
 python lotka_volterra.py
